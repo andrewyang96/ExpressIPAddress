@@ -1,0 +1,23 @@
+{
+  "name": "express-ip-address",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewyang96/ExpressIPAddress.git"
+  },
+  "author": "Andrew Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewyang96/ExpressIPAddress/issues"
+  },
+  "homepage": "https://github.com/andrewyang96/ExpressIPAddress#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "request-ip": "^2.0.2"
+  }
+}
